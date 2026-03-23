@@ -1,0 +1,2 @@
+hello , This is python file i/o write example
+This is an appended line.
